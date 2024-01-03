@@ -3,4 +3,4 @@
 I make static website using html and css.
 This website is about leraning coding like codedamn.
 
-[Review](https://faizaneduhub.netlify.app/) `Website`
+Clicked to [Review](https://faizaneduhub.netlify.app/) this `Website`
